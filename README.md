@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I really like to workout 
 
-<div align="center">
+<div align="display: inline_block center">
   <a href="https://github.com/MarcosCangussu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosCangussu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCangussu&layout=compact&langs_count=7&theme=github_dark"/>
