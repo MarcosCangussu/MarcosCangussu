@@ -1,7 +1,7 @@
 ## Hi i'm Marcos Cangussu👋
 
-- 🔭 I’m currently working in the engineering field
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working as a systems development analyst
+- 🌱 I’m currently learning React Native and C#
 - ⚡ Fun fact: I really like to workout 
 
 <div align="display: inline_block center">
